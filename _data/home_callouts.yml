@@ -2,11 +2,11 @@ style: is-light
 items:
   - title: Enriches Central
     subtitle: Provides a range features to supplement Central.
-    icon: fa-regular fa-square-plus
+    icon: fa fa-square-plus
   - title: Integration
     subtitle: Integrates Central with external systems.
-    icon: fa-solid fa-cloud-arrow-up
+    icon: fa fa-cloud-arrow-up
   - title: Custom Features
     subtitle: Delivers different customisations of processes in Central.
-    icon: fa-solid fa-gears
+    icon: fa fa-gears
     icon_brand: true
