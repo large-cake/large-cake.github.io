@@ -2,7 +2,7 @@ style: is-light
 items:
   - title: Enriches Central
     subtitle: Provides a range features to supplement Central.
-    icon: fa fa-square-plus
+    icon: fa-copy
   - title: Integration
     subtitle: Integrates Central with external systems.
     icon: fa fa-cloud-arrow-up
