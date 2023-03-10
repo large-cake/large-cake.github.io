@@ -3,7 +3,7 @@ title: Sunrise User Guide
 subtitle: This guide showcases homepages available in Sunrise.
 layout: page
 callouts: home_callouts
-show_sidebar: true
+show_sidebar: false
 ---
 
 # Sunrise User Guide
