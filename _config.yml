@@ -4,12 +4,12 @@ title: Sunrise Guides
 tagline: Sunrise Guides
 email: your-email@domain.com
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
+  Sunrise User Guide
 baseurl: "/"
-url: "https://www.csrhymes.com"
+url: "https://sunrise.chameleonit.co.uk"
 permalink: pretty
 #favicon: /path/to/favicon.png
-gh_sponsor: chrisrhymes
+gh_sponsor:
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
 #fixed_navbar: top
