@@ -1,6 +1,6 @@
 - label: Sunrise
   items:
     - name: HubSpot
-      link: /guides/sunrise/hubspot/
+      link: /guides/sunrise/HubSpot/
     - name: MailChimp
-      link: /guides/sunrise/mailchimp/ 
+      link: /guides/sunrise/MailChimp
