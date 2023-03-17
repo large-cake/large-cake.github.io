@@ -5,8 +5,7 @@ items:
     icon: fa-copy
   - title: Integration
     subtitle: Integrates Central with external systems.
-    icon: fa-copy
+    icon: fa-space-shuttle
   - title: Custom Features
     subtitle: Delivers different customisations of processes in Central.
-    icon: fa-copy
-    icon_brand: true
+    icon: fa-wrench
