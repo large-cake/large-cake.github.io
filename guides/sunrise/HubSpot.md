@@ -2,7 +2,7 @@
 layout: page
 menubar: guides_menu
 title: HubSpot
-subtitle: Getting Started
+subtitle: Connects Central to HubSpot
 show_sidebar: false
 toc: true
 ---

@@ -2,7 +2,7 @@
 layout: page
 menubar: guides_menu
 title: MailChimp
-subtitle: Getting Started
+subtitle: Connects Central to MailChimp
 show_sidebar: false
 toc: true
 ---

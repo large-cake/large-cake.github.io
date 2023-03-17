@@ -2,7 +2,7 @@
 layout: page
 menubar: guides_menu
 title: Office365 Contacts
-subtitle: Getting Started
+subtitle: Connects Central to Office365
 show_sidebar: false
 toc: true
 ---
